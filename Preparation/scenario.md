@@ -29,20 +29,21 @@ Aplikace
 	- může být smazán
 
 Tajemník
-	- může přidat (i smazat nebo editovat) ZAMĚSTNANCE pomocí formuláře
+	- může přidat (i smazat) ZAMĚSTNANCE pomocí formuláře
 		-> zvolí výši úvazku (buď nemá úvazek nebo je na dohodu nebo musí naplňovat výši úvazku (těch 500 bodů))
 		-> má jméno, email a tel. číslo
 		-> může být zařazen k žádnému nebo více štítkům
 
-	- může přidat (i smazat nebo editovat) nový OBOR studia pomocí formuláře
+	- může přidat (i smazat) nový OBOR studia pomocí formuláře
 
-	- může přidat (i smazat nebo editovat) PŘEDMĚT pomocí formuláře 
+	- může přidat (i smazat) PŘEDMĚT pomocí formuláře 
 		-> definuje zkratku, název, rozsah (přednášky, semináře nebo cvika), způsob zakončení, obor kterého se týká a ústav do kterého patří
 		-> nastaví počet osob na cviku
 	
 ---------------------------------------------------
 2) Otázky na které se chcete zeptat.
 
+Co přesně je myšleno štítkem? (každotýdenní rozvrhová akce nebo cviko/přednáška/seminář)
 
 
 ---------------------------------------------------
